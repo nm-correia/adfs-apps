@@ -1,7 +1,7 @@
 adfs-apps
 ================
 
-ADFS exmample applications for test and processing.
+ADFS example applications for processing and testing.
 
 -----
 
